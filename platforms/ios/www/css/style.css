@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+
+#view {
+  background: url('../img/background.png');
+  background-size: cover;
+}
+
+.vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

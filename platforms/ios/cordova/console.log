@@ -1,0 +1,393 @@
+2014-12-22 19:21:22.064 BangmodParking[1891:99968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Data/Application/CCF63154-8656-4ED1-B8B1-78A65B253C14/Library/Cookies/Cookies.binarycookies
+2014-12-22 19:21:22.519 BangmodParking[1891:99968] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 19:21:22.519 BangmodParking[1891:99968] Multi-tasking -> Device: YES, App: YES
+2014-12-22 19:21:22.545 BangmodParking[1891:99968] Unlimited access to network resources
+2014-12-22 19:21:23.238 BangmodParking[1891:99968] [CDVTimer][keyboard] 0.193000ms
+2014-12-22 19:21:23.239 BangmodParking[1891:99968] [CDVTimer][TotalPluginStartup] 0.762045ms
+2014-12-22 19:21:25.175 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:25.638 BangmodParking[1891:99968] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/D4AAA3C1-54DF-455D-A479-BE76C355A967/BangmodParking.app/www/index.html#/tab/dash
+2014-12-22 19:21:26.859 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:29.024 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:29.024 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:29.550 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:29.551 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:31.238 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:33.134 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:34.611 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:34.612 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:35.282 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:35.282 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:35.468 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:35.469 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:35.648 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:35.649 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:39.030 BangmodParking[1891:99968] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-12-22 19:21:39.032 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:21:42.321 BangmodParking[1891:99968] Finished load of: https://m.facebook.com/login.php?auth_token=8997d6130521c2660c75affa07f86bbc&skip_api_login=1&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv2.2%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Demail%252Cpublish_actions%26response_type%3Dtoken%26client_id%3D1733339923558373%26ret%3Dlogin&refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=9
+2014-12-22 19:21:59.296 BangmodParking[1891:99968] Resetting plugins due to page load.
+2014-12-22 19:22:01.597 BangmodParking[1891:99968] Finished load of: https://www.facebook.com/connect/login_success.html#access_token=CAAYodqZArLZBUBAKxWX4yYcnK89JNgDFZAuKHBZCyHouAXtZAS7F6RIoaB9klsc0Pf4X7ZAxmZBCuPccyiLx8LOkKwL5chvZBsY9L00w8yGSilMcXdUgU4ZBBDOGzQAsdik9sPty211cHDqCQKBz1ojhAB50qls4jcLRYE6sZCFDLXt7fj6dgE4QOSZCzbZClWnfrXgnuxDeLwrrykWzSwZCDB7GL&expires_in=5184000
+2014-12-22 20:55:05.507 BangmodParking[2402:139068] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 20:55:05.515 BangmodParking[2402:139068] Multi-tasking -> Device: YES, App: YES
+2014-12-22 20:55:05.531 BangmodParking[2402:139068] Unlimited access to network resources
+2014-12-22 20:55:06.088 BangmodParking[2402:139068] [CDVTimer][keyboard] 0.063002ms
+2014-12-22 20:55:06.089 BangmodParking[2402:139068] [CDVTimer][TotalPluginStartup] 0.654995ms
+2014-12-22 20:55:06.505 BangmodParking[2402:139068] Resetting plugins due to page load.
+2014-12-22 20:55:06.792 BangmodParking[2402:139068] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/DE57A441-0AF6-4D2E-891E-36CFC436CDEB/BangmodParking.app/www/index.html#/login
+2014-12-22 20:55:08.277 BangmodParking[2402:139068] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2014-12-22 20:55:08.295 BangmodParking[2402:139068] THREAD WARNING: ['InAppBrowser'] took '251.263916' ms. Plugin should use a background thread.
+2014-12-22 20:55:12.137 BangmodParking[2402:139068] exit and remove listeners
+2014-12-22 20:55:12.138 BangmodParking[2402:139068] Error in Success callbackId: InAppBrowser594839546 : ReferenceError: Can't find variable: deferredLogin
+2014-12-22 20:56:58.781 BangmodParking[2800:141633] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 20:56:58.782 BangmodParking[2800:141633] Multi-tasking -> Device: YES, App: YES
+2014-12-22 20:56:58.783 BangmodParking[2800:141633] Unlimited access to network resources
+2014-12-22 20:56:58.976 BangmodParking[2800:141633] [CDVTimer][keyboard] 0.054002ms
+2014-12-22 20:56:58.976 BangmodParking[2800:141633] [CDVTimer][TotalPluginStartup] 0.216007ms
+2014-12-22 20:56:59.123 BangmodParking[2800:141633] Resetting plugins due to page load.
+2014-12-22 20:56:59.350 BangmodParking[2800:141633] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/AA1966E1-AB7A-412F-8C5B-BE6D7358498B/BangmodParking.app/www/index.html#/login
+2014-12-22 20:57:01.368 BangmodParking[2800:141633] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2014-12-22 20:57:01.378 BangmodParking[2800:141633] THREAD WARNING: ['InAppBrowser'] took '184.270264' ms. Plugin should use a background thread.
+2014-12-22 20:57:04.130 BangmodParking[2800:141633] exit and remove listeners
+2014-12-22 20:57:04.131 BangmodParking[2800:141633] Error in Success callbackId: InAppBrowser92226853 : ReferenceError: Can't find variable: deferredLogin
+2014-12-22 20:57:20.882 BangmodParking[2800:141682] Terminating since there is no system app.
+2014-12-22 20:58:54.352 BangmodParking[3008:143117] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 20:58:54.353 BangmodParking[3008:143117] Multi-tasking -> Device: YES, App: YES
+2014-12-22 20:58:54.355 BangmodParking[3008:143117] Unlimited access to network resources
+2014-12-22 20:58:54.566 BangmodParking[3008:143117] [CDVTimer][keyboard] 0.059009ms
+2014-12-22 20:58:54.566 BangmodParking[3008:143117] [CDVTimer][TotalPluginStartup] 0.223994ms
+2014-12-22 20:58:54.748 BangmodParking[3008:143117] Resetting plugins due to page load.
+2014-12-22 20:58:54.990 BangmodParking[3008:143117] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/00EC7E40-4CAE-4E25-AC4B-26ADDEED16D4/BangmodParking.app/www/index.html#/login
+2014-12-22 20:58:56.522 BangmodParking[3008:143117] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2014-12-22 20:58:56.529 BangmodParking[3008:143117] THREAD WARNING: ['InAppBrowser'] took '207.843262' ms. Plugin should use a background thread.
+2014-12-22 20:58:59.131 BangmodParking[3008:143117] exit and remove listeners
+2014-12-22 20:58:59.132 BangmodParking[3008:143117] Error in Success callbackId: InAppBrowser1646215958 : ReferenceError: Can't find variable: deferredLogin
+2014-12-23 23:10:32.928 BangmodParking[5089:408199] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-23 23:10:32.936 BangmodParking[5089:408199] Multi-tasking -> Device: YES, App: YES
+2014-12-23 23:10:32.957 BangmodParking[5089:408199] Unlimited access to network resources
+2014-12-23 23:10:33.463 BangmodParking[5089:408199] [CDVTimer][keyboard] 0.063002ms
+2014-12-23 23:10:33.463 BangmodParking[5089:408199] [CDVTimer][TotalPluginStartup] 0.241995ms
+2014-12-23 23:10:33.934 BangmodParking[5089:408199] Resetting plugins due to page load.
+2014-12-23 23:10:35.180 BangmodParking[5089:408199] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/3B4A1F58-90E9-4041-9E05-B2D2F4E16A29/BangmodParking.app/www/index.html#/login
+2014-12-23 23:10:36.796 BangmodParking[5089:408199] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2014-12-23 23:10:36.819 BangmodParking[5089:408199] THREAD WARNING: ['InAppBrowser'] took '326.326660' ms. Plugin should use a background thread.
+2014-12-23 23:10:40.066 BangmodParking[5089:408199] exit and remove listeners
+2014-12-23 23:10:40.066 BangmodParking[5089:408199] Error in Success callbackId: InAppBrowser853968015 : ReferenceError: Can't find variable: deferredLogin
+2015-01-06 15:55:12.430 BangmodParking[19558:2039037] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-06 15:55:12.436 BangmodParking[19558:2039037] Multi-tasking -> Device: YES, App: YES
+2015-01-06 15:55:12.458 BangmodParking[19558:2039037] Unlimited access to network resources
+2015-01-06 15:55:13.109 BangmodParking[19558:2039037] [CDVTimer][keyboard] 0.174999ms
+2015-01-06 15:55:13.109 BangmodParking[19558:2039037] [CDVTimer][TotalPluginStartup] 0.524998ms
+2015-01-06 15:55:13.802 BangmodParking[19558:2039037] Resetting plugins due to page load.
+2015-01-06 15:55:14.176 BangmodParking[19558:2039037] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/1D19AD79-D1A8-4F43-99A5-846E3DA35EBF/BangmodParking.app/www/index.html#/login
+2015-01-06 15:57:16.654 BangmodParking[19558:2039037] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-06 15:57:16.684 BangmodParking[19558:2039037] THREAD WARNING: ['InAppBrowser'] took '350.026123' ms. Plugin should use a background thread.
+2015-01-06 15:57:32.431 BangmodParking[19558:2039037] exit and remove listeners
+2015-01-06 15:57:32.431 BangmodParking[19558:2039037] Error in Success callbackId: InAppBrowser417561838 : ReferenceError: Can't find variable: deferredLogin
+2015-01-06 22:10:02.562 BangmodParking[20382:2106526] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-06 22:10:02.565 BangmodParking[20382:2106526] Multi-tasking -> Device: YES, App: YES
+2015-01-06 22:10:02.586 BangmodParking[20382:2106526] Unlimited access to network resources
+2015-01-06 22:10:03.125 BangmodParking[20382:2106526] [CDVTimer][keyboard] 0.056982ms
+2015-01-06 22:10:03.125 BangmodParking[20382:2106526] [CDVTimer][TotalPluginStartup] 0.237048ms
+2015-01-06 22:10:03.493 BangmodParking[20382:2106526] Resetting plugins due to page load.
+2015-01-06 22:10:03.800 BangmodParking[20382:2106526] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/04D0CA73-D9ED-4CAA-A4DE-D9B868140449/BangmodParking.app/www/index.html#/login
+2015-01-06 22:10:05.213 BangmodParking[20382:2106526] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-06 22:10:05.227 BangmodParking[20382:2106526] THREAD WARNING: ['InAppBrowser'] took '233.026123' ms. Plugin should use a background thread.
+2015-01-06 22:10:06.919 BangmodParking[20382:2106526] exit and remove listeners
+2015-01-06 22:10:06.920 BangmodParking[20382:2106526] Error in Success callbackId: InAppBrowser890244403 : ReferenceError: Can't find variable: deferredLogin
+2015-01-06 22:17:36.846 BangmodParking[20758:2111107] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-06 22:17:36.847 BangmodParking[20758:2111107] Multi-tasking -> Device: YES, App: YES
+2015-01-06 22:17:36.849 BangmodParking[20758:2111107] Unlimited access to network resources
+2015-01-06 22:17:37.054 BangmodParking[20758:2111107] [CDVTimer][keyboard] 0.054002ms
+2015-01-06 22:17:37.055 BangmodParking[20758:2111107] [CDVTimer][TotalPluginStartup] 0.232995ms
+2015-01-06 22:17:37.182 BangmodParking[20758:2111107] Resetting plugins due to page load.
+2015-01-06 22:17:37.398 BangmodParking[20758:2111107] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/A796264E-FE7E-4DAB-81BC-447DE3CAAC42/BangmodParking.app/www/index.html#/login
+2015-01-06 22:17:39.149 BangmodParking[20758:2111107] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-06 22:17:39.158 BangmodParking[20758:2111107] THREAD WARNING: ['InAppBrowser'] took '180.866943' ms. Plugin should use a background thread.
+2015-01-06 22:17:40.930 BangmodParking[20758:2111107] exit and remove listeners
+2015-01-06 22:17:40.930 BangmodParking[20758:2111107] Error in Success callbackId: InAppBrowser495258631 : ReferenceError: Can't find variable: deferredLogin
+2015-01-11 18:26:28.386 BangmodParking[28442:3166330] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-11 18:26:28.391 BangmodParking[28442:3166330] Multi-tasking -> Device: YES, App: YES
+2015-01-11 18:26:28.411 BangmodParking[28442:3166330] Unlimited access to network resources
+2015-01-11 18:26:28.985 BangmodParking[28442:3166330] [CDVTimer][keyboard] 0.744998ms
+2015-01-11 18:26:29.205 BangmodParking[28442:3166330] [CDVTimer][statusbar] 219.494998ms
+2015-01-11 18:26:29.205 BangmodParking[28442:3166330] [CDVTimer][TotalPluginStartup] 220.717013ms
+2015-01-11 18:26:29.496 BangmodParking[28442:3166330] Resetting plugins due to page load.
+2015-01-11 18:26:29.899 BangmodParking[28442:3166330] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/E6EBF306-CA50-4963-AC19-11C574CC7156/BangmodParking.app/www/index.html
+2015-01-11 18:29:25.513 BangmodParking[28825:3169371] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-11 18:29:25.514 BangmodParking[28825:3169371] Multi-tasking -> Device: YES, App: YES
+2015-01-11 18:29:25.518 BangmodParking[28825:3169371] Unlimited access to network resources
+2015-01-11 18:29:25.938 BangmodParking[28825:3169371] [CDVTimer][keyboard] 0.083029ms
+2015-01-11 18:29:26.074 BangmodParking[28825:3169371] [CDVTimer][statusbar] 134.949982ms
+2015-01-11 18:29:26.074 BangmodParking[28825:3169371] [CDVTimer][TotalPluginStartup] 135.645032ms
+2015-01-11 18:29:26.403 BangmodParking[28825:3169371] Resetting plugins due to page load.
+2015-01-11 18:29:26.821 BangmodParking[28825:3169371] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/34E06E7A-2AF3-40DB-B566-014A1138A5FB/BangmodParking.app/www/index.html#/login
+2015-01-11 18:29:30.066 BangmodParking[28825:3169371] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-11 18:29:30.107 BangmodParking[28825:3169371] THREAD WARNING: ['InAppBrowser'] took '349.749023' ms. Plugin should use a background thread.
+2015-01-11 18:29:33.942 BangmodParking[28825:3169371] exit and remove listeners
+2015-01-11 18:29:33.942 BangmodParking[28825:3169371] Error in Success callbackId: InAppBrowser377740829 : ReferenceError: Can't find variable: deferredLogin
+2015-01-11 18:57:51.564 BangmodParking[29533:3181518] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-11 18:57:51.566 BangmodParking[29533:3181518] Multi-tasking -> Device: YES, App: YES
+2015-01-11 18:57:51.583 BangmodParking[29533:3181518] Unlimited access to network resources
+2015-01-11 18:57:52.109 BangmodParking[29533:3181518] [CDVTimer][keyboard] 0.077009ms
+2015-01-11 18:57:52.267 BangmodParking[29533:3181518] [CDVTimer][statusbar] 157.703042ms
+2015-01-11 18:57:52.267 BangmodParking[29533:3181518] [CDVTimer][TotalPluginStartup] 158.205986ms
+2015-01-11 18:57:52.572 BangmodParking[29533:3181518] Resetting plugins due to page load.
+2015-01-11 18:57:53.004 BangmodParking[29533:3181518] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/6774BBDA-5D93-4D31-B250-5B5CC5C60A4E/BangmodParking.app/www/index.html#/login
+2015-01-11 18:57:54.842 BangmodParking[29533:3181518] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-11 18:57:54.866 BangmodParking[29533:3181518] THREAD WARNING: ['InAppBrowser'] took '273.128174' ms. Plugin should use a background thread.
+2015-01-11 18:57:56.921 BangmodParking[29533:3181518] exit and remove listeners
+2015-01-11 18:57:56.922 BangmodParking[29533:3181518] Error in Success callbackId: InAppBrowser812819828 : ReferenceError: Can't find variable: deferredLogin
+2015-01-11 18:58:53.328 BangmodParking[29912:3183195] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-11 18:58:53.329 BangmodParking[29912:3183195] Multi-tasking -> Device: YES, App: YES
+2015-01-11 18:58:53.331 BangmodParking[29912:3183195] Unlimited access to network resources
+2015-01-11 18:58:53.584 BangmodParking[29912:3183195] [CDVTimer][keyboard] 0.056982ms
+2015-01-11 18:58:53.634 BangmodParking[29912:3183195] [CDVTimer][statusbar] 49.250960ms
+2015-01-11 18:58:53.634 BangmodParking[29912:3183195] [CDVTimer][TotalPluginStartup] 49.661040ms
+2015-01-11 18:58:53.809 BangmodParking[29912:3183195] Resetting plugins due to page load.
+2015-01-11 18:58:54.067 BangmodParking[29912:3183195] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/C98ED0F4-A264-4D45-832C-4D25BED36135/BangmodParking.app/www/index.html#/login
+2015-01-11 18:58:55.442 BangmodParking[29912:3183195] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-11 18:58:55.450 BangmodParking[29912:3183195] THREAD WARNING: ['InAppBrowser'] took '215.231934' ms. Plugin should use a background thread.
+2015-01-11 18:59:02.900 BangmodParking[29912:3183195] exit and remove listeners
+2015-01-11 18:59:02.901 BangmodParking[29912:3183195] Error in Success callbackId: InAppBrowser1461503291 : ReferenceError: Can't find variable: deferredLogin
+2015-01-14 19:16:33.635 BangmodParking[33337:3634962] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-14 19:16:33.637 BangmodParking[33337:3634962] Multi-tasking -> Device: YES, App: YES
+2015-01-14 19:16:33.656 BangmodParking[33337:3634962] Unlimited access to network resources
+2015-01-14 19:16:34.209 BangmodParking[33337:3634962] [CDVTimer][keyboard] 0.064015ms
+2015-01-14 19:16:34.386 BangmodParking[33337:3634962] [CDVTimer][statusbar] 177.333057ms
+2015-01-14 19:16:34.387 BangmodParking[33337:3634962] [CDVTimer][TotalPluginStartup] 177.747011ms
+2015-01-14 19:16:34.622 BangmodParking[33337:3634962] Resetting plugins due to page load.
+2015-01-14 19:16:34.913 BangmodParking[33337:3634962] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/38452B9F-95DE-45F6-9816-D1C5164AF396/BangmodParking.app/www/index.html#/login
+2015-01-14 19:16:54.608 BangmodParking[33337:3634962] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-14 19:16:54.647 BangmodParking[33337:3634962] THREAD WARNING: ['InAppBrowser'] took '343.800049' ms. Plugin should use a background thread.
+2015-01-14 19:16:57.007 BangmodParking[33337:3634962] exit and remove listeners
+2015-01-14 19:16:57.007 BangmodParking[33337:3634962] Error in Success callbackId: InAppBrowser1363566090 : ReferenceError: Can't find variable: deferredLogin
+2015-01-14 19:17:02.432 BangmodParking[33337:3634962] 200
+2015-01-14 19:17:02.435 BangmodParking[33337:3634962] {"available":17,"max":"100"}
+2015-01-14 19:28:37.047 BangmodParking[34405:3643738] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-14 19:28:37.052 BangmodParking[34405:3643738] Multi-tasking -> Device: YES, App: YES
+2015-01-14 19:28:37.056 BangmodParking[34405:3643738] Unlimited access to network resources
+2015-01-14 19:28:37.261 BangmodParking[34405:3643738] [CDVTimer][keyboard] 0.084996ms
+2015-01-14 19:28:37.345 BangmodParking[34405:3643738] [CDVTimer][statusbar] 83.687007ms
+2015-01-14 19:28:37.345 BangmodParking[34405:3643738] [CDVTimer][TotalPluginStartup] 84.086001ms
+2015-01-14 19:28:37.552 BangmodParking[34405:3643738] Resetting plugins due to page load.
+2015-01-14 19:28:37.785 BangmodParking[34405:3643738] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/18638E5C-601C-4D51-8B31-B89DC8410494/BangmodParking.app/www/index.html#/login
+2015-01-14 19:28:39.207 BangmodParking[34405:3643738] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-14 19:28:39.215 BangmodParking[34405:3643738] THREAD WARNING: ['InAppBrowser'] took '192.742188' ms. Plugin should use a background thread.
+2015-01-14 19:28:40.972 BangmodParking[34405:3643738] exit and remove listeners
+2015-01-14 19:28:40.972 BangmodParking[34405:3643738] Error in Success callbackId: InAppBrowser487880656 : ReferenceError: Can't find variable: deferredLogin
+2015-01-16 11:19:54.014 BangmodParking[40722:4134491] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 11:19:54.018 BangmodParking[40722:4134491] Multi-tasking -> Device: YES, App: YES
+2015-01-16 11:19:54.045 BangmodParking[40722:4134491] Unlimited access to network resources
+2015-01-16 11:19:54.649 BangmodParking[40722:4134491] [CDVTimer][keyboard] 0.056982ms
+2015-01-16 11:19:54.891 BangmodParking[40722:4134491] [CDVTimer][statusbar] 241.171002ms
+2015-01-16 11:19:54.891 BangmodParking[40722:4134491] [CDVTimer][TotalPluginStartup] 241.657972ms
+2015-01-16 11:19:55.130 BangmodParking[40722:4134491] Resetting plugins due to page load.
+2015-01-16 11:19:55.475 BangmodParking[40722:4134491] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/18008EC6-73FB-47EB-AC21-C105A0D3E011/BangmodParking.app/www/index.html#/login
+2015-01-16 11:20:06.662 BangmodParking[40722:4134491] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-16 11:20:06.687 BangmodParking[40722:4134491] THREAD WARNING: ['InAppBrowser'] took '295.640869' ms. Plugin should use a background thread.
+2015-01-16 11:20:10.371 BangmodParking[40722:4134491] exit and remove listeners
+2015-01-16 11:20:10.371 BangmodParking[40722:4134491] Error in Success callbackId: InAppBrowser1090101084 : ReferenceError: Can't find variable: deferredLogin
+2015-01-16 11:20:21.979 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:21.979 BangmodParking[40722:4134491] {"available":29,"max":"30"}
+2015-01-16 11:20:22.229 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:22.229 BangmodParking[40722:4134491] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:20:26.335 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:26.335 BangmodParking[40722:4134491] {"available":30,"max":"30"}
+2015-01-16 11:20:27.295 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:27.295 BangmodParking[40722:4134491] {"available":29,"max":"30"}
+2015-01-16 11:20:27.487 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:27.487 BangmodParking[40722:4134491] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:20:58.076 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:58.077 BangmodParking[40722:4134491] {"available":30,"max":"30"}
+2015-01-16 11:20:59.719 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:59.719 BangmodParking[40722:4134491] {"available":29,"max":"30"}
+2015-01-16 11:20:59.867 BangmodParking[40722:4134491] 200
+2015-01-16 11:20:59.867 BangmodParking[40722:4134491] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:21:00.787 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:00.787 BangmodParking[40722:4134491] {"available":30,"max":"30"}
+2015-01-16 11:21:01.662 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:01.662 BangmodParking[40722:4134491] {"available":29,"max":"30"}
+2015-01-16 11:21:01.723 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:01.723 BangmodParking[40722:4134491] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:21:02.367 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:02.367 BangmodParking[40722:4134491] {"available":30,"max":"30"}
+2015-01-16 11:21:03.560 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:03.560 BangmodParking[40722:4134491] {"available":99,"max":"100"}
+2015-01-16 11:21:03.738 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:03.739 BangmodParking[40722:4134491] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:21:06.981 BangmodParking[40722:4134491] 200
+2015-01-16 11:21:06.981 BangmodParking[40722:4134491] {"available":100,"max":"100"}
+2015-01-16 11:25:13.442 BangmodParking[41076:4138636] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 11:25:13.443 BangmodParking[41076:4138636] Multi-tasking -> Device: YES, App: YES
+2015-01-16 11:25:13.445 BangmodParking[41076:4138636] Unlimited access to network resources
+2015-01-16 11:25:13.670 BangmodParking[41076:4138636] [CDVTimer][keyboard] 0.057995ms
+2015-01-16 11:25:13.742 BangmodParking[41076:4138636] [CDVTimer][statusbar] 71.684003ms
+2015-01-16 11:25:13.742 BangmodParking[41076:4138636] [CDVTimer][TotalPluginStartup] 72.144032ms
+2015-01-16 11:25:13.957 BangmodParking[41076:4138636] Resetting plugins due to page load.
+2015-01-16 11:25:14.282 BangmodParking[41076:4138636] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/7819415A-EA7D-4FA5-B791-F4C40F8C431A/BangmodParking.app/www/index.html#/login
+2015-01-16 11:25:16.080 BangmodParking[41076:4138636] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-16 11:25:16.087 BangmodParking[41076:4138636] THREAD WARNING: ['InAppBrowser'] took '210.779053' ms. Plugin should use a background thread.
+2015-01-16 11:25:17.374 BangmodParking[41076:4138636] exit and remove listeners
+2015-01-16 11:25:17.375 BangmodParking[41076:4138636] Error in Success callbackId: InAppBrowser698013272 : ReferenceError: Can't find variable: deferredLogin
+2015-01-16 11:25:20.179 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:20.179 BangmodParking[41076:4138636] {"available":98,"max":"100"}
+2015-01-16 11:25:20.351 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:20.351 BangmodParking[41076:4138636] {"1":"4902787783109","2":"Warat Kaweepornpoj","3":"4902787783109","4":"Warat Kaweepornpoj"}
+2015-01-16 11:25:23.746 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:23.746 BangmodParking[41076:4138636] {"available":99,"max":"100"}
+2015-01-16 11:25:25.841 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:25.841 BangmodParking[41076:4138636] {"available":98,"max":"100"}
+2015-01-16 11:25:26.001 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:26.001 BangmodParking[41076:4138636] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:25:27.634 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:27.634 BangmodParking[41076:4138636] {"available":99,"max":"100"}
+2015-01-16 11:25:30.914 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:30.914 BangmodParking[41076:4138636] {"available":39,"max":"40"}
+2015-01-16 11:25:31.005 BangmodParking[41076:4138636] 200
+2015-01-16 11:25:31.006 BangmodParking[41076:4138636] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:26:14.658 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:14.658 BangmodParking[41076:4138636] {"available":40,"max":"40"}
+2015-01-16 11:26:16.458 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:16.459 BangmodParking[41076:4138636] {"available":98,"max":"100"}
+2015-01-16 11:26:16.604 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:16.604 BangmodParking[41076:4138636] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:26:17.330 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:17.331 BangmodParking[41076:4138636] {"available":99,"max":"100"}
+2015-01-16 11:26:19.018 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:19.018 BangmodParking[41076:4138636] {"available":7,"max":"8"}
+2015-01-16 11:26:19.153 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:19.154 BangmodParking[41076:4138636] {"1":"4902787783109","2":"Warat Kaweepornpoj"}
+2015-01-16 11:26:22.710 BangmodParking[41076:4138636] 200
+2015-01-16 11:26:22.710 BangmodParking[41076:4138636] {"available":8,"max":"8"}
+2015-01-23 21:42:14.092 BangmodParking[1676:99946] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-23 21:42:14.095 BangmodParking[1676:99946] Multi-tasking -> Device: YES, App: YES
+2015-01-23 21:42:14.108 BangmodParking[1676:99946] Unlimited access to network resources
+2015-01-23 21:42:14.625 BangmodParking[1676:99946] [CDVTimer][keyboard] 0.055969ms
+2015-01-23 21:42:14.756 BangmodParking[1676:99946] [CDVTimer][statusbar] 131.143987ms
+2015-01-23 21:42:14.756 BangmodParking[1676:99946] [CDVTimer][TotalPluginStartup] 131.518006ms
+2015-01-23 21:42:14.949 BangmodParking[1676:99946] Resetting plugins due to page load.
+2015-01-23 21:42:15.338 BangmodParking[1676:99946] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/7F5E33E3-64EB-4850-B3A9-5348B4C606EB/BangmodParking.app/www/index.html#/login
+2015-01-23 21:42:16.675 BangmodParking[1676:99946] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-23 21:42:16.691 BangmodParking[1676:99946] THREAD WARNING: ['InAppBrowser'] took '241.395020' ms. Plugin should use a background thread.
+2015-01-23 21:42:27.307 BangmodParking[1676:99946] exit and remove listeners
+2015-01-23 21:42:27.307 BangmodParking[1676:99946] Error in Success callbackId: InAppBrowser643850421 : ReferenceError: Can't find variable: deferredLogin
+2015-01-23 21:43:40.161 BangmodParking[1676:99946] 200
+2015-01-23 21:43:40.161 BangmodParking[1676:99946] {"available":37,"max":"100"}
+2015-01-23 21:43:40.251 BangmodParking[1676:99946] 200
+2015-01-23 21:43:40.251 BangmodParking[1676:99946] null
+2015-01-23 21:43:40.357 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 21:43:45.526 BangmodParking[1676:99946] 200
+2015-01-23 21:43:45.526 BangmodParking[1676:99946] {"available":38,"max":"100"}
+2015-01-23 21:43:48.124 BangmodParking[1676:99946] 200
+2015-01-23 21:43:48.125 BangmodParking[1676:99946] {"available":35,"max":"40"}
+2015-01-23 21:43:48.286 BangmodParking[1676:99946] 200
+2015-01-23 21:43:48.286 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","timestamp":"2015-01-20 11:58:49"}]
+2015-01-23 21:43:48.361 BangmodParking[1676:99946] null
+2015-01-23 21:43:59.116 BangmodParking[1676:99946] 200
+2015-01-23 21:43:59.116 BangmodParking[1676:99946] {"available":36,"max":"40"}
+2015-01-23 21:44:00.728 BangmodParking[1676:99946] 200
+2015-01-23 21:44:00.729 BangmodParking[1676:99946] {"available":37,"max":"100"}
+2015-01-23 21:44:00.857 BangmodParking[1676:99946] 200
+2015-01-23 21:44:00.857 BangmodParking[1676:99946] null
+2015-01-23 21:44:01.052 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 21:44:07.849 BangmodParking[1676:99946] 200
+2015-01-23 21:44:07.849 BangmodParking[1676:99946] {"available":38,"max":"100"}
+2015-01-23 21:44:12.126 BangmodParking[1676:99946] 200
+2015-01-23 21:44:12.126 BangmodParking[1676:99946] {"available":35,"max":"40"}
+2015-01-23 21:44:12.238 BangmodParking[1676:99946] 200
+2015-01-23 21:44:12.238 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","timestamp":"2015-01-20 11:58:49"}]
+2015-01-23 21:44:12.491 BangmodParking[1676:99946] null
+2015-01-23 21:44:15.397 BangmodParking[1676:99946] 200
+2015-01-23 21:44:15.398 BangmodParking[1676:99946] {"available":36,"max":"40"}
+2015-01-23 21:44:17.023 BangmodParking[1676:99946] 200
+2015-01-23 21:44:17.023 BangmodParking[1676:99946] {"available":37,"max":"100"}
+2015-01-23 21:44:17.174 BangmodParking[1676:99946] 200
+2015-01-23 21:44:17.174 BangmodParking[1676:99946] null
+2015-01-23 21:44:17.383 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 21:44:31.173 BangmodParking[1676:99946] 200
+2015-01-23 21:44:31.173 BangmodParking[1676:99946] {"available":38,"max":"100"}
+2015-01-23 21:44:32.305 BangmodParking[1676:99946] 200
+2015-01-23 21:44:32.305 BangmodParking[1676:99946] {"available":37,"max":"100"}
+2015-01-23 21:44:32.402 BangmodParking[1676:99946] 200
+2015-01-23 21:44:32.402 BangmodParking[1676:99946] null
+2015-01-23 21:44:32.533 BangmodParking[1676:99946] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 22:15:52.864 BangmodParking[2204:116630] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-23 22:15:52.865 BangmodParking[2204:116630] Multi-tasking -> Device: YES, App: YES
+2015-01-23 22:15:52.868 BangmodParking[2204:116630] Unlimited access to network resources
+2015-01-23 22:15:53.239 BangmodParking[2204:116630] [CDVTimer][keyboard] 0.055969ms
+2015-01-23 22:15:53.319 BangmodParking[2204:116630] [CDVTimer][statusbar] 80.143988ms
+2015-01-23 22:15:53.320 BangmodParking[2204:116630] [CDVTimer][TotalPluginStartup] 80.942035ms
+2015-01-23 22:15:53.511 BangmodParking[2204:116630] Resetting plugins due to page load.
+2015-01-23 22:15:53.793 BangmodParking[2204:116630] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/7FD66D14-109D-4C3A-8F3A-98B1F3FDF24A/BangmodParking.app/www/index.html#/login
+2015-01-23 22:15:55.159 BangmodParking[2204:116630] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-23 22:15:55.177 BangmodParking[2204:116630] THREAD WARNING: ['InAppBrowser'] took '206.155273' ms. Plugin should use a background thread.
+2015-01-23 22:15:57.490 BangmodParking[2204:116630] exit and remove listeners
+2015-01-23 22:15:57.490 BangmodParking[2204:116630] Error in Success callbackId: InAppBrowser1882478993 : ReferenceError: Can't find variable: deferredLogin
+2015-01-23 22:17:14.447 BangmodParking[2204:116630] 200
+2015-01-23 22:17:14.447 BangmodParking[2204:116630] {"available":99,"max":"100"}
+2015-01-23 22:17:14.539 BangmodParking[2204:116630] 200
+2015-01-23 22:17:14.540 BangmodParking[2204:116630] null
+2015-01-23 22:17:14.717 BangmodParking[2204:116630] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 22:17:15.676 BangmodParking[2204:116630] 200
+2015-01-23 22:17:15.676 BangmodParking[2204:116630] {"available":100,"max":"100"}
+2015-01-23 22:17:27.941 BangmodParking[2204:116630] 200
+2015-01-23 22:17:27.941 BangmodParking[2204:116630] {"available":29,"max":"30"}
+2015-01-23 22:17:28.153 BangmodParking[2204:116630] 200
+2015-01-23 22:17:28.153 BangmodParking[2204:116630] null
+2015-01-23 22:17:28.221 BangmodParking[2204:116630] [{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"ร้อน"}]
+2015-01-23 22:17:38.449 BangmodParking[2204:116630] 200
+2015-01-23 22:17:38.450 BangmodParking[2204:116630] {"available":30,"max":"30"}
+2015-01-23 22:22:32.205 BangmodParking[2204:116630] 200
+2015-01-23 22:22:32.206 BangmodParking[2204:116630] {"available":99,"max":"100"}
+2015-01-23 22:22:32.342 BangmodParking[2204:116630] 200
+2015-01-23 22:22:32.343 BangmodParking[2204:116630] null
+2015-01-23 22:22:32.431 BangmodParking[2204:116630] [{"name":"Tu Tumm","user_id":"1524031104552840","content":"ชอบแอปนี้จังครับ"},{"name":"Warat Kaweepornpoj","user_id":"4902787783109","content":"เก่งจัง"},{"name":"Tu Tumm","user_id":"1524031104552840","content":"ว้าว ดีจัง!!"},{"name":"Open Graph Test User","user_id":"1403742496591329","content":"This is a comment."}]
+2015-01-23 23:14:17.047 BangmodParking[820:11860] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-23 23:14:17.049 BangmodParking[820:11860] Multi-tasking -> Device: YES, App: YES
+2015-01-23 23:14:17.065 BangmodParking[820:11860] Unlimited access to network resources
+2015-01-23 23:14:17.554 BangmodParking[820:11860] [CDVTimer][keyboard] 0.057995ms
+2015-01-23 23:14:17.682 BangmodParking[820:11860] [CDVTimer][statusbar] 128.106058ms
+2015-01-23 23:14:17.682 BangmodParking[820:11860] [CDVTimer][TotalPluginStartup] 128.717959ms
+2015-01-23 23:14:17.926 BangmodParking[820:11860] Resetting plugins due to page load.
+2015-01-23 23:14:18.252 BangmodParking[820:11860] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/FD2B6548-AB96-4BCB-801E-7E2CD8AD3AFF/BangmodParking.app/www/index.html#/login
+2015-01-23 23:14:20.354 BangmodParking[820:11860] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-23 23:14:20.370 BangmodParking[820:11860] THREAD WARNING: ['InAppBrowser'] took '221.376953' ms. Plugin should use a background thread.
+2015-01-23 23:14:23.910 BangmodParking[820:11860] exit and remove listeners
+2015-01-23 23:14:23.910 BangmodParking[820:11860] Error in Success callbackId: InAppBrowser1474991552 : ReferenceError: Can't find variable: deferredLogin
+2015-01-25 21:19:58.275 BangmodParking[3026:187186] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 21:19:58.281 BangmodParking[3026:187186] Multi-tasking -> Device: YES, App: YES
+2015-01-25 21:19:58.371 BangmodParking[3026:187186] Unlimited access to network resources
+2015-01-25 21:19:59.036 BangmodParking[3026:187186] [CDVTimer][keyboard] 0.068009ms
+2015-01-25 21:19:59.168 BangmodParking[3026:187186] [CDVTimer][statusbar] 131.810963ms
+2015-01-25 21:19:59.168 BangmodParking[3026:187186] [CDVTimer][TotalPluginStartup] 132.277012ms
+2015-01-25 21:19:59.509 BangmodParking[3026:187186] Resetting plugins due to page load.
+2015-01-25 21:19:59.799 BangmodParking[3026:187186] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/E05DEC3E-CDBC-4B1A-975C-0A2990AEE212/BangmodParking.app/www/index.html#/login
+2015-01-25 21:20:00.957 BangmodParking[3026:187186] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-25 21:20:00.973 BangmodParking[3026:187186] THREAD WARNING: ['InAppBrowser'] took '224.781982' ms. Plugin should use a background thread.
+2015-01-25 21:20:04.114 BangmodParking[3026:187186] exit and remove listeners
+2015-01-25 21:20:04.114 BangmodParking[3026:187186] Error in Success callbackId: InAppBrowser1325049935 : ReferenceError: Can't find variable: deferredLogin
+2015-01-25 21:20:06.453 BangmodParking[3026:187186] locationManager::didFailWithError (null)
+2015-01-25 21:26:19.270 BangmodParking[3474:191608] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 21:26:19.271 BangmodParking[3474:191608] Multi-tasking -> Device: YES, App: YES
+2015-01-25 21:26:19.272 BangmodParking[3474:191608] Unlimited access to network resources
+2015-01-25 21:26:19.493 BangmodParking[3474:191608] [CDVTimer][keyboard] 0.088990ms
+2015-01-25 21:26:19.518 BangmodParking[3474:191608] [CDVTimer][statusbar] 24.528027ms
+2015-01-25 21:26:19.518 BangmodParking[3474:191608] [CDVTimer][TotalPluginStartup] 24.986982ms
+2015-01-25 21:26:19.631 BangmodParking[3474:191608] Resetting plugins due to page load.
+2015-01-25 21:26:19.927 BangmodParking[3474:191608] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/9DB44AEC-D965-4C54-A3D9-CD8B9AF916EB/BangmodParking.app/www/index.html#/login
+2015-01-25 21:26:21.379 BangmodParking[3474:191608] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-01-25 21:26:21.386 BangmodParking[3474:191608] THREAD WARNING: ['InAppBrowser'] took '195.924805' ms. Plugin should use a background thread.
+2015-01-25 21:26:23.114 BangmodParking[3474:191608] exit and remove listeners
+2015-01-25 21:26:23.115 BangmodParking[3474:191608] Error in Success callbackId: InAppBrowser574419814 : ReferenceError: Can't find variable: deferredLogin
+2015-02-03 23:12:21.716 BangmodParking[4340:499295] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-03 23:12:21.722 BangmodParking[4340:499295] Multi-tasking -> Device: YES, App: YES
+2015-02-03 23:12:21.744 BangmodParking[4340:499295] Unlimited access to network resources
+2015-02-03 23:12:22.273 BangmodParking[4340:499295] [CDVTimer][keyboard] 0.053048ms
+2015-02-03 23:12:22.449 BangmodParking[4340:499295] [CDVTimer][statusbar] 175.840974ms
+2015-02-03 23:12:22.449 BangmodParking[4340:499295] [CDVTimer][TotalPluginStartup] 176.208019ms
+2015-02-03 23:12:22.652 BangmodParking[4340:499295] Resetting plugins due to page load.
+2015-02-03 23:12:22.973 BangmodParking[4340:499295] Finished load of: file:///Users/win/Library/Developer/CoreSimulator/Devices/4F9B76F0-AA36-4586-BB72-5C0416246DFE/data/Containers/Bundle/Application/7F854C29-5A03-4834-B796-AB9712D7F097/BangmodParking.app/www/index.html#/login
+2015-02-03 23:12:28.144 BangmodParking[4340:499295] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-02-03 23:12:28.171 BangmodParking[4340:499295] THREAD WARNING: ['InAppBrowser'] took '303.756836' ms. Plugin should use a background thread.
+2015-02-03 23:12:35.553 BangmodParking[4340:499295] locationManager::didFailWithError (null)
+2015-02-03 23:12:35.604 BangmodParking[4340:499295] exit and remove listeners
+2015-02-03 23:12:35.604 BangmodParking[4340:499295] Error in Success callbackId: InAppBrowser1884828525 : ReferenceError: Can't find variable: deferredLogin

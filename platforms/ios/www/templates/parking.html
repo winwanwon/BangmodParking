@@ -1,0 +1,83 @@
+<ion-view view-title="Bangmod Parking">
+  <ion-content class="padding">
+    <div class="card">
+      <div class="item item-divider">
+        You've parked at {{place.name}}
+      </div>
+      <div class="item item-image">
+        <img src="{{place.image}}">
+      </div>
+      <div class="item item-icon-left">
+        <i class="icon ion-information-circled"></i>
+        <h2><b>Available lots left: {{available}}</b></h2>
+        <p>(Max Capacity: {{max}})</p>
+      </div>
+      <div class="item">
+        <a class="button button-block button-assertive" href="#/home" ng-click="cancelPark()">
+          Cancel Parking Here
+        </a>
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item item-divider">
+        Other people who parked here
+      </div>
+      <div class="item item-avatar" ng-repeat="person in people">
+        <img src="http://graph.facebook.com/{{person.user_id}}/picture?type=square">
+        {{person.name}}
+        <p>{{person.timestamp}}</p>
+      </div>
+      <div class="item" ng-hide="people">
+        There's no other people parked here.
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item item-divider">
+        Comment
+      </div>
+      <div class="item">
+        <label class="item item-input">
+          <textarea placeholder="write your comments.." ng-model="$parent.comment"></textarea>
+        </label>
+        <button class="button button-outline button-small button-block button-positive disabled" ng-hide="$parent.comment">
+          Post your comment
+        </button>
+        <button class="button button-outline button-small button-block button-positive" ng-show="$parent.comment" ng-click="submitComment()">
+          Post your comment
+        </button>
+      </div>
+      <div class="item item-avatar" ng-show="this_comment">
+        <img src="http://graph.facebook.com/{{this_userid}}/picture?type=square">
+        {{this_username}}
+        <p>{{this_comment}}</p>
+      </div>
+      <div class="item item-avatar" ng-repeat="comment in comments">
+        <img src="http://graph.facebook.com/{{comment.user_id}}/picture?type=square">
+        {{comment.name}}
+        <p>{{comment.content}}</p>
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item item-divider">
+        Data inaccurate?
+      </div>
+      <div class="item" ng-show="datasend==0" ng-init="datasend=0">
+        <div class="row">
+          <div class="col">
+            <button class="button button-block button-small button-outline button-positive" ng-click="datasend=1">
+              <i class="icon ion-plus-circled"></i> More available
+            </button>
+          </div>
+          <div class="col">
+            <button class="button button-block button-small button-outline button-assertive" ng-click="datasend=1">
+              <i class="icon ion-minus-circled"></i> Less available
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="item" ng-show="datasend==1">
+        <span class="balanced">Thanks for helping us!</span>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
